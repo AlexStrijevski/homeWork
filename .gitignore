@@ -1,0 +1,4 @@
+*.ssas
+bin/
+admin/
+config/
